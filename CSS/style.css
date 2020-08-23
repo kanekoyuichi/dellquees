@@ -1,9 +1,6 @@
 body{
   font-family: 'Noto Sans JP', sans-serif;
-  background-image: URL(https://dellquees.com/images/astronomy-1867616_1920.jpg);
-  background-size:  auto;
-}
-h1{
-  background-image: URL(https://dellquees.com/images/200801_logo_white.png);
-  
+  background-image: URL(https://dellquees.com/images/200801_logo_white.png),URL(https://dellquees.com/images/astronomy-1867616_1920.jpg);
+  background-repeat:  no-repeat,no-repeat; 
+  background-size:  50% 50%,auto;
 }
