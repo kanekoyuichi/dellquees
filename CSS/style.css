@@ -3,5 +3,5 @@ body{
   background-image: URL(https://dellquees.com/images/200801_logo_white.png),URL(https://dellquees.com/images/astronomy-1867616_1920.jpg);
   background-repeat:  no-repeat,no-repeat;
   background-size: 400px,cover;
-  background-position: center center,center;
+  background-position: center,center;
 }
