@@ -24,6 +24,7 @@ body{
 .header-title{
  position: relative; /*必ず必要*/
  z-index: 2; /*必ず必要*/
+ height: 100vh;
 }
 
 div.header-title img{
