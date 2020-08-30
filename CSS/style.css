@@ -31,8 +31,9 @@ body{
  vertical-align: middle;
  margin: auto;
 }
-.header > img{
- margin-top:30px;  
+.header-title > img{
+ margin-top:30px;
+ width:340px;
 }
 
 #logo{
