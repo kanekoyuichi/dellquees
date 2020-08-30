@@ -25,14 +25,14 @@ body{
 .header-title{
  position: relative; /*必ず必要*/
  z-index: 2; /*必ず必要*/
- display: flex;
- width: 50%;
  justify-content: center;
  align-items: center;
  text-align:center;
  vertical-align: middle;
  margin: auto;
- margin-top:30px;
+}
+.header > img{
+ margin-top:30px;  
 }
 
 #logo{
