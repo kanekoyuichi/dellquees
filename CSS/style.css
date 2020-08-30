@@ -34,6 +34,7 @@ body{
 .header-title > img{
  margin-top:30px;
  width:340px;
+ vertical-align: middle;
 }
 
 #logo{
