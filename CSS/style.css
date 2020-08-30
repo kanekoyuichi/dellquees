@@ -24,6 +24,7 @@ body{
 .header-title{
  position: relative; /*必ず必要*/
  z-index: 2; /*必ず必要*/
+ display:flex;
  justify-content: center;
  align-items: center;
  text-align:center;
@@ -31,10 +32,7 @@ body{
 }
 
 div.header-title{
- height:340px;
- display:flex;
- vertical-align: middle;
- text-align:center;
+ height:100%;
 }
 
 div.header-title img{
