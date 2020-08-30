@@ -37,7 +37,7 @@ body{
 }
 
 div.header-title p{
- display;table-cell;
+ display:table-cell;
  vertical-align: middle;
  text-align:center;
  line-height:0;
