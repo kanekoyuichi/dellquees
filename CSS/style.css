@@ -21,7 +21,7 @@ body{
  background-size: cover;
 }
 /* ----- 背景の上に表示させたいコンテンツ ----- */
-h1{
+.header-title{
  position: relative; /*必ず必要*/
  z-index: 2; /*必ず必要*/
  display: flex;
