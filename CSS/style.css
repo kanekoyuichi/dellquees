@@ -7,11 +7,6 @@ body{
   height: 100vh;
 }
 
-.wrap{
-  height: 100vh;  
-}
-
-
 /* ----- 背景用の動画ファイル ----- */
 #bg-video{
  position: fixed;
@@ -32,15 +27,14 @@ body{
  justify-content: center;
  align-items: center;
  text-align:center;
- vertical-align: middle;
  margin: auto;
 }
 
-div.header-title p{
- display:table-cell;
+div.header-title{
+ height:340px;
+ display:flex;
  vertical-align: middle;
  text-align:center;
- line-height:0;
 }
 
 div.header-title img{
