@@ -7,6 +7,7 @@ body{
   height: 100vh;
 }
 
+
 /* ----- 背景用の動画ファイル ----- */
 #bg-video{
  position: fixed;
@@ -31,3 +32,9 @@ body{
  text-align:center;
  margin: auto;
 }
+
+#logo{
+ font-family: 'Pacifico', cursive;
+ color:#fff;
+}
+
