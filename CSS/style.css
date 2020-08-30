@@ -7,6 +7,10 @@ body{
   height: 100vh;
 }
 
+.wrap{
+  height: 100vh;  
+}
+
 
 /* ----- 背景用の動画ファイル ----- */
 #bg-video{
