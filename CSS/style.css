@@ -31,10 +31,16 @@ body{
  vertical-align: middle;
  margin: auto;
 }
-.header-title > img{
- margin-top:30px;
- width:340px;
+
+div.header-title p{
+ display;table-cell;
  vertical-align: middle;
+ text-align:center;
+ line-height:0;
+}
+
+div.header-title img{
+ width:340px;
 }
 
 #logo{
